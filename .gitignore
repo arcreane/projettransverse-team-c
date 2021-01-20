@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/ProjectSettings.json
+<<<<<<< HEAD
+=======
+/ProjectC++/.vs/ProjectC++/v16/Browse.VC.opendb
+/ProjectC++/.vs/ProjectC++/v16/Browse.VC.db-wal
+/ProjectC++/.vs/ProjectC++/v16/Browse.VC.db-shm
+/ProjectC++/.vs/ProjectC++/v16/Browse.VC.db
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/Projet Transverse/v16/.suo
+>>>>>>> d101e42 (premier comit setup du projet)
